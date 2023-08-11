@@ -5,6 +5,7 @@ A ideia é termos uma sequência de códigos cada vez mais complexos para acompa
 # Instalação
 
 conda create --name curso_RNA numpy matplotlib
+
 conda activate curso_RNA
 
 # Execução
