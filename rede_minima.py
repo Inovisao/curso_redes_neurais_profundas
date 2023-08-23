@@ -52,7 +52,7 @@ def treina(rede, entradas, saidas_corretas):
 
         # Atualize os pesos do neurônio (aqui é a chave do aprendizado)
         # Usando a descida de gradiente
-        rede = rede - TAXA_APRENDIZAGEM*gradiente*rede
+        rede = rede - TAXA_APRENDIZAGEM*gradiente
 
     # Retorna a saída final da rede após o treinamento
     return saidas_IA
