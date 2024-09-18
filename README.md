@@ -11,5 +11,6 @@ conda activate curso_RNA
 # Execução
 
 python rede_minima.py
+
 python rede_peso_vies_regressao.py 
 
