@@ -10,7 +10,9 @@ conda activate curso_RNA
 
 # Execução
 
+## Rede com um único peso
 python rede_minima.py
 
+## Rede com um peso e um viés
 python rede_peso_vies_regressao.py 
 
